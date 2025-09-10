@@ -1,2 +1,2 @@
 # the-first
-This is my first rep
+This is my first repo
